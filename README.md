@@ -1,2 +1,2 @@
 # Project-Euler
-Solving Project=Euler with less computational power
+Solving Project-Euler with less computational power
